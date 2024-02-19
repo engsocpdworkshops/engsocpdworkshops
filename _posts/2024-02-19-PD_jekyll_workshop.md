@@ -5,7 +5,7 @@ categories:
 tags:
   - Jekyll
   - Queen's University
-author: Jacob
+author: Jason Debbo & Jacob Chisholm
 ---
 
 This article serves as the technical instruction document for the Queen's EngSoc Professional Development Workshop on setting up a Jekyll based portfolio website.
